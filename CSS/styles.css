@@ -1,0 +1,142 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather",serif;
+    font-size: 200%;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin : 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat",sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    text-align-last: center;
+}
+
+h3 {
+    color: #11999E;
+    font-family: "Montserrat",sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    text-align: center;
+}
+
+h4 {
+    color: #11999E;
+    font-family: "Montserrat",sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+/* .bottom-container {
+background-color: blue;
+width: 200px;
+height: 200px;
+} */
+
+.pro {
+    color: #66bfbf;
+    text-decoration: underline;
+}
+
+p {
+    line-height: 2;
+    text-align: justify;
+}
+
+p.copyright {
+    text-align: center;
+}
+
+hr {
+    border: dotted #EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 800px;
+    top: 0px;
+    width: 400px;
+    height: 200px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    width: 400px;
+    height: 200px;
+    left: 800px;
+    top: 350px;
+}
+
+.bottom-mountain {
+    width: 1600px;
+    height: 600px;
+}
+.skill-row {
+    width: 50%;
+    margin : 100px auto 100px auto;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 800px;
+    margin: 40px auto;
+}
+
+a.btn {
+    font-size: 1.2rem;
+}
+
+div.bottom-container{
+    font-size: 1.3rem;
+}
+
+p.intro {
+    width: 800px;
+    text-align: center;
+}
+
+.code-img{
+
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-png {
+    width: 15%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+
+
+
